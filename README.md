@@ -1,6 +1,6 @@
 # excel-coffee-sales-dashboard
 
->hi this is shata
->im new 
+-A coffee sales Dashboard is created from raw coffee sales and customer sales data.
+-
 
 
